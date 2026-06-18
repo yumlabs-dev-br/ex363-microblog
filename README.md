@@ -8,7 +8,7 @@ API REST de microblog com JWT, seguidores e timeline personalizada.
 
 ```bash
 npm install
-npm start        # inicia em http://localhost:3004
+npm start        # inicia em http://localhost:3000
 ```
 
 O projeto já sobe com uma rota raiz `GET /`. Todo o resto é com o grupo.
